@@ -27,9 +27,10 @@
 
   </div>
 
+<br>
 
-<p>I work with data to make data driven decisions and to build applications using tools like Python Programming Language, SQL, PowerBI, FastAPI, Machine Learning frameworks, Cloud tools(AWS, Heroku) and basically any tool suitable for the task at hand. I'm also a Petroleum Engineer with a Master's Degree😁
-</p>
+<div>I work with data to make data driven decisions and to build applications using tools like Python Programming Language, SQL, PowerBI, Machine Learning frameworks, Cloud tools(AWS, Azure and Heroku) and basically any tool suitable for the task at hand. I'm also a Petroleum Engineer with a Master's Degree😁
+</div>
 
 
 
@@ -149,7 +150,7 @@
 
  </p>
 
-
+<br>
 
 <!--
 
@@ -210,39 +211,31 @@
 
 <a href="https://github.com/SolaJohnson/Machine-Learning-Course-Projects">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Machine-Learning-Course-Projects&theme=dark" />
 
 </a>  
 
 <a href="https://github.com/SolaJohnson/Alien-Shooter">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Alien-Shooter&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SolaJohnson&repo=Alien-Shooter&theme=dark"/>
 
 </a> 
 
 <a href="https://github.com/SolaJohnson/Credit-Card-Fraud-Detection">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Credit-Card-Fraud-Detection&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SolaJohnson&repo=Credit-Card-Fraud-Detection&theme=dark" />
 
 </a> 
 
 <a href="https://github.com/SolaJohnson/FIFA-22-Player-Analysis">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=FIFA-22-Player-Analysis&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SolaJohnson&repo=FIFA-22-Player-Analysis&theme=dark" />
 
 </a> 
 
 <a href="https://github.com/SolaJohnson/Heart-Failure-Prediction-Web-App-with-Flask">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Heart-Failure-Prediction-Web-App-with-Flask&theme=dark" />
 
@@ -250,25 +243,21 @@
 
 <a href="https://github.com/SolaJohnson/Titanic-Survival-Prediction-with-FastAPI-and-Docker">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Titanic-Survival-Prediction-with-FastAPI-and-Docker&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SolaJohnson&repo=Titanic-Survival-Prediction-with-FastAPI-and-Docker&theme=dark" />
 
 </a>
 
 <a href="https://github.com/SolaJohnson/Dog-Breed-Prediction-Streamlit-App">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Dog-Breed-Prediction-Streamlit-App&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SolaJohnson&repo=Dog-Breed-Prediction-Streamlit-App&theme=dark" />
 
 </a>
 
 <a href="https://github.com/SolaJohnson/Streamlit-Web-App-Projects">
 
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Streamlit-Web-App-Projects&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=SolaJohnson&repo=Streamlit-Web-App-Projects&theme=dark" />
 
 </a>
 
