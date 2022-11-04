@@ -56,32 +56,28 @@
 
 ### Database Tools
 <div align="left">
-     <a href="" target="_blank">
+  <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
   
-    <a href="" target="_blank">
+  <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
   
-    <a href="" target="_blank">
+  <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
   
-    <a href="" target="_blank">
+  <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   </a>
-
+	
 </div>
   
 ### Visualisation Tools
 <div align="left">
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="jetbrains" />
-  </a>
-  
-  <a href="" target="_blank">
-    <img src="https://images.credly.com/images/4bb1c5b4-0ef4-40e5-9df0-227b60a49551/Analyst-600X600.png" alt="jetbrains" />
   </a>
   
 </div>
@@ -211,6 +207,7 @@
 
 -->
 
+<!--
 ## Projects
 
 <a href="https://github.com/SolaJohnson/Machine-Learning-Course-Projects">
@@ -276,7 +273,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nneji123&repo=Streamlit-Web-App-Projects&theme=dark" />
 
 </a>
-
+-->
 	 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px height = 35px>
 
