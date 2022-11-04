@@ -106,9 +106,6 @@
   <a href="https://docker.com/" target="_blank">
     <img alt="Docker" src="https://img.shields.io/badge/Docker-blue.svg?&style=for-the-badge&logo=Docker&logoColor=white">
   </a>
-  <a href="https://linux.com/" target="_blank">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  </a>
   
 </p>
 
@@ -150,8 +147,11 @@
     <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-red?style=for-the-badge&logo=Pytorch&logoColor=white">
    </a>
 
-
  </p>
+
+
+
+<!--
 
 ### Backend Tools
 <p align="left">
@@ -193,7 +193,7 @@
 </p>
  
 
-<!--
+
 ### Automation Tools
 <p
   <a href="https://www.selenium.dev/" target="_blank">
