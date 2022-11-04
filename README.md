@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi, I'm Johnson Amodu 👋
 
-<!--
-**SolaJohnson/SolaJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I work with data to make data driven decisions and to build applications using tools like Python Programming Language, SQL, PowerBI, FastAPI, Machine Learning frameworks, Cloud tools(Azure, AWS, Heroku) and basically any tool suitable for the task at hand. I'm also a Petroleum Engineer😁.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolaJohnson)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
