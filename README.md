@@ -1,11 +1,11 @@
 ## Hi, I’m Johnson Amodu <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Business+Analyst+and+a+Data+Scientist;I'm+also+a+Petroleum+Engineering(M.Sc)" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+FULL+STACK+DATA+SCIENTIST;And+a+DATA+ANALYTICS+SPECIALIST;+I'm+also+a+Certified+Petroleum+Engineer(M.Sc)"/></a>
 </p>
-<img src="https://solajohnson.github.io/cv/banner.jpg" alt="Johnson's Banner"/>
+<img src="https://solajohnson.github.io/portfolio/banner.jpg" alt="Johnson's Banner"/>
 <div align ="center">
   
-  <a  href="https://solajohnson.github.io/cv/" target="_blank">
+  <a  href="https://solajohnson.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/> 
   </a>
   
